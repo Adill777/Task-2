@@ -1,0 +1,16 @@
+Subject: Immediate Action Required - Account Verification
+From: support@paypa1-secure.com
+To: yourname@example.com
+
+Dear Customer,
+
+We noticed unusual activity in your PayPal account. For your protection, we’ve temporarily limited access.
+
+Please verify your account immediately by clicking the secure link below:
+[Verify Now](http://bit.ly/fake-paypal-link)
+
+Failure to act within 24 hours will result in permanent suspension of your account.
+
+Thank you for choosing PayPal.
+
+PayPal Security Team
